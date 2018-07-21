@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>http://mybook.com/nullREADME.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullgitbook_test\index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullgitbook_test\plugin\plugin_test.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\linux_instruction.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\file_disk_management.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\gedit.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\install.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\linux_command.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\commander.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\practice.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\ssh_ftp.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\sublime.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\system_management.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\user_rights_management.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\linux\vi.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\windows\index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\windows\decimal.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\windows\dos_command.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\windows\file_disk_env.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\windows\hot_key.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\windows\network.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://mybook.com/nullsoft_test\basic_test\computer\windows\win_instruction.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>

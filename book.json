@@ -1,0 +1,168 @@
+{
+	"title" : "软件测试教程",
+	"author" : "panxueyan",
+	"description" : "软件测试教程",
+	"language":"en",
+	
+	"plugins": [
+		"toggle-chapters",
+		"disqus",
+		"splitter",
+		"collapsible-menu",
+		"tbfed-pagefooter",
+		"theme-comscore",
+		"github",
+		"github-buttons",
+		"emphasize",
+		"disqus",
+		"editlink",
+		"prism",
+        "-highlight",
+		"ace",
+		"emphasize",
+		"chart",
+		"sharing",
+		"katex",
+		"alerts",
+		"-search",
+		"copy-code-button",
+		"klipse",
+		"versions-select",
+		"rss",
+		"sitemap",
+		"book-summary-scroll-position-saver",
+		"redirect",
+		"duoshuo",
+		"search",
+		"highlight-code"
+		
+		],
+		
+		
+	"links" : {
+			"sidebar" : {
+			"Home" : "https://github.com/github653224"
+				}
+			},
+	"pdf": {
+		"pageNumbers": true, 
+		"fontFamily": "Arial",
+		"fontSize": 12,
+		"paperSize": "a4",
+		
+		"margin": {
+			  "right": 62,
+			  "left": 62,
+			  "top": 56,
+			  "bottom": 56
+			}
+	},
+		
+		
+	"pluginsConfig": {
+	
+		"github": {
+        "url": "https://github.com/github653224"
+		},
+		"chart":{
+			"type":"c3"
+		},
+		"github-buttons": {
+            "repo": "https://github.com/github653224",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        },
+		
+		"editlink": {
+		  "base": "https://github.com/github653224/testing_teaching",
+		  "label": "编辑本页面"
+		},
+		
+		
+	
+		"fontsettings": {
+			"theme": "sepia",
+			"family": "serif",
+			"size":  1
+		},
+		
+		 "disqus": {
+			"shortName": "gitbookuse"
+			},
+		"disqus": {
+			"shortName": "webpack-handbook"
+		},
+		
+	
+		"tbfed-pagefooter": {
+			"copyright":"Copyright &copy panxueyan",
+			"modify_label": "该文件修订时间：",
+			"modify_format": "YYYY-MM-DD HH:mm:ss"
+		},
+		
+		"sharing": {
+			"weibo": true,
+			"facebook": true,
+			"twitter": true,
+			"google": false,
+			"instapaper": false,
+			"vk": false,
+			
+			"all": [
+				"facebook", "google", "twitter",
+					"weibo", "instapaper"
+			]
+		},
+		
+		"versions": {
+            "options": [
+                {
+                    "value": "https://github.com/github653224",
+                    "text": "v3.2.2"
+                },
+                {
+                    "value": "https://github.com/github653224",
+                    "text": "v2.6.4"
+                }
+            ]
+        },
+		
+		"rss": {
+            "title": "GitBook 使用教程",
+            "description": "记录 GitBook 的配置和一些插件的使用",
+            "author": "Jikai Zhang",
+            "feed_url": "https://github.com/github653224",
+            "site_url": "https://github.com/github653224",
+            "managingEditor": "944851899@qq.com",
+            "webMaster": "944851899@qq.com",
+            "categories": [
+                "gitbook"
+            ]
+        },
+		
+		"sitemap": {
+            "hostname": "http://mybook.com/"
+        },
+		
+		"duoshuo": {
+            "short_name": "your duoshuo's shortname",
+            "theme": "default"
+        }
+		
+		
+		
+	
+	}
+	
+	
+	
+	
+	
+
+
+
+}

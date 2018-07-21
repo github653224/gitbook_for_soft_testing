@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GitBook 使用教程]]></title>
+        <description><![CDATA[记录 GitBook 的配置和一些插件的使用]]></description>
+        <link>https://github.com/github653224</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 21 Jul 2018 01:54:33 GMT</lastBuildDate>
+        <atom:link href="https://github.com/github653224" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Jikai Zhang]]></author>
+        <managingEditor><![CDATA[944851899@qq.com]]></managingEditor>
+        <webMaster><![CDATA[944851899@qq.com]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://github.com/github653224</link>
+            <guid isPermaLink="true">https://github.com/github653224</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[gitbook测试]]></title>
+            <link>https://github.com/github653224gitbook_test/README.html</link>
+            <guid isPermaLink="true">https://github.com/github653224gitbook_test/README.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[插件测试]]></title>
+            <description><![CDATA[sdddd]]></description>
+            <link>https://github.com/github653224gitbook_test/plugin/plugin_test.html</link>
+            <guid isPermaLink="true">https://github.com/github653224gitbook_test/plugin/plugin_test.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[软件测试教程]]></title>
+            <description><![CDATA[顶顶顶顶]]></description>
+            <link>https://github.com/github653224soft_test/README.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/README.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[计算机基础]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/README.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/README.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Linux概述]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/linux_instruction.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/linux_instruction.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Linux教学]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/README.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/README.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Linux命令-文件磁盘管理]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/file_disk_management.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/file_disk_management.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Gedit编辑器]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/gedit.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/gedit.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Linux安装配置]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/install.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/install.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Linux命令]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/linux_command.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/linux_command.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[commander编辑器]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/commander.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/commander.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Linux命令-练习]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/practice.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/practice.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[ssh和ftp服务器构建]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/ssh_ftp.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/ssh_ftp.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[sublime编辑器]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/sublime.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/sublime.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Linux命令-系统管理]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/system_management.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/system_management.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Linux用户权限管理]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/user_rights_management.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/user_rights_management.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[vi编辑器]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/linux/vi.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/linux/vi.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Windows教学]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/windows/README.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/windows/README.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Windows-进制换算]]></title>
+            <link>https://github.com/github653224soft_test/basic_test/computer/windows/decimal.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/windows/decimal.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Windows-Dos命令行]]></title>
+            <description><![CDATA[<a href="https://www.cnblogs.com/defen/p/5618226.html">点击更多Dos命令</a> <br />]]></description>
+            <link>https://github.com/github653224soft_test/basic_test/computer/windows/dos_command.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/windows/dos_command.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Windows-文件/磁盘/境变量]]></title>
+            <description><![CDATA[###1.固定ip地址]]></description>
+            <link>https://github.com/github653224soft_test/basic_test/computer/windows/file_disk_env.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/windows/file_disk_env.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Windows-快捷键]]></title>
+            <description><![CDATA[<a href="https://zhidao.baidu.com/question/1240741310730270979.html">点击更多快捷键1</a> <br />
+<a href="https://wenku.baidu.com/view/5704c6cf77a20029bd64783e0912a21614797ff3.html">点击更多快捷键2</a>]]></description>
+            <link>https://github.com/github653224soft_test/basic_test/computer/windows/hot_key.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/windows/hot_key.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Windows-网络技术]]></title>
+            <description><![CDATA[###2.TCP/IP模型(实际):]]></description>
+            <link>https://github.com/github653224soft_test/basic_test/computer/windows/network.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/windows/network.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Windows-家族]]></title>
+            <description><![CDATA[###1. 版本 <br />]]></description>
+            <link>https://github.com/github653224soft_test/basic_test/computer/windows/win_instruction.html</link>
+            <guid isPermaLink="true">https://github.com/github653224soft_test/basic_test/computer/windows/win_instruction.html</guid>
+            <dc:creator><![CDATA[Jikai Zhang]]></dc:creator>
+        </item>
+    </channel>
+</rss>
