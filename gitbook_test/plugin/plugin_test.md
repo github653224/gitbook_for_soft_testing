@@ -20,4 +20,8 @@ I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].  
 
 
 
-test
+[百度连接1](https://www.baidu.com):
+
+[百度连接2][1]
+
+[1]: https://www.baidu.com	"这是百度连接哦"
